@@ -1,9 +1,8 @@
 # NABox
 A simple monitoring script for NABox using python paramiko and sqlite db
 
-########################################################################
+
 #NABox Monitoring Script
-########################################################################
 
 
 ##Context
